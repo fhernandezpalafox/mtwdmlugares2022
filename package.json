@@ -1,0 +1,15 @@
+{
+  "name": "mtwdmlugares",
+  "version": "1.0.0",
+  "description": "Api Rest",
+  "scripts": {
+    "start": "node app.js",
+    "test": "nodemon app.js"
+  },
+  "author": "Felipe Hernandez Palafox",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}

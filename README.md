@@ -1,2 +1,2 @@
-# mtwdmlugares2022
-Api Rest NodeJS
+# mtwdmlugares
+Ejercicio de consumo de una API Rest Nodejs
