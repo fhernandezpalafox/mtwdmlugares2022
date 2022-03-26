@@ -1,10 +1,10 @@
 var mysql =  require("mysql");
 
 var pool = mysql.createPool({
-    host:  "us-cdbr-east-03.cleardb.com",
-    user: "b97f7be2fd36d0", 
-    password: "1032ff9c",
-    database: "heroku_ddcf23873ffc91b",
+    host:  "us-cdbr-east-05.cleardb.net",
+    user: "b61d0d34739067", 
+    password: "b5521c0e",
+    database: "heroku_568e58fb2436d8f",
 });
 
 module.exports = {
